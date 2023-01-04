@@ -6,7 +6,7 @@
 It attracts the right kinds of visitors.
 Guides them to the main services or product you offer.
 Collect Contact details for future ongoing relation.”</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/ef/d9/06efd9fc18aade1ce5a7f80374b5ce61.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipti1144&label=Profile%20views&color=0e75b6&style=flat" alt="dipti1144" /> </p>
 
