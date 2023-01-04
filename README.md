@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/91c0c50639feb83c9675e648e989b35117171876f126c3af52a522f266f1aeb7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)](https://kalesha58.io)
+[![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif)](https://dipti1144.io)
 <h1 align="center">Hi 👋, I'm Deepti</h1>
 
 <h3 align="center">A passionate Full-stack Web Developer from India</h3>
