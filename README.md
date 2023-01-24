@@ -20,10 +20,10 @@ Collect Contact details for future ongoing relation.”</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deepti-baghel-a21541232/" target="blank">Linkedin
+<a href="https://www.linkedin.com/in/deepti-baghel-a21541232/" target="_blank">Linkedin
   </a>
   <br/>
-  <a href="https://dipti1144.github.io/" target="blank">Portfolio
+  <a href="https://dipti1144.github.io/" target="_blank">Portfolio
   </a>
 </p>
 
