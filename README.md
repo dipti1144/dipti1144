@@ -33,11 +33,11 @@ Collect Contact details for future ongoing relation.”</h3>
 
 <div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dipti1144&show_icons=true&locale=en&layout=compact" alt="dipti1144" /></div>
 
-<div align="center" >
+<div  >
 <div  ><img align="left"  src="https://github-readme-stats.vercel.app/api?username=dipti1144&show_icons=true&locale=en" alt="dipti1144" /></div>
 
-<div><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=dipti1144&" alt="dipti1144" /></div>
-</div> 
+<div ><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=dipti1144&" alt="dipti1144" /></div>
+</div>
   
 
 
