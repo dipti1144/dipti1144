@@ -23,7 +23,7 @@ Collect Contact details for future ongoing relation.”</h3>
 <a href="https://www.linkedin.com/in/deepti-baghel-a21541232/" target="_blank">Linkedin
   </a>
   <br/>
-  <a href="https://dipti1144.github.io/" target="_blank">Portfolio
+  <a href=dipti1144.github.io/" target="_blank">Portfolio
   </a>
   <br/>
 </p>
