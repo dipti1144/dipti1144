@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif)](https://dipti1144.io)
+[![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)](https://dipti1144.io)
 <h1 align="center">Hi 👋, I'm Deepti</h1>
 
 <h3 align="center">A passionate Full-stack Web Developer from India</h3>
